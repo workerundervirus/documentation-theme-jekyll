@@ -1,5 +1,5 @@
 ---
-title: "新冠疫情工人资讯收集平台"
+title: "工人现状 政策整理 行动汇总"
 keywords: 主页
 tags: [getting_started]
 sidebar: mydoc_sidebar
