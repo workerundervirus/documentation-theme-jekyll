@@ -1,5 +1,5 @@
 ---
-title: "工人现状 政策整理 行动汇总"
+title: "首页"
 keywords: 主页
 tags: [getting_started]
 sidebar: mydoc_sidebar
